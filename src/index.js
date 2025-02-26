@@ -1,5 +1,5 @@
 import express from 'express';
-import referralRoutes from './accredian-backend-task/src/routes/referralRouter.js';
+import referralRoutes from './routes/referralRouter.js';
 import dotenv from "dotenv";
 import bodyParser from "body-parser";
 dotenv.config()
